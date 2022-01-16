@@ -1,6 +1,6 @@
 <?php
 
-define('API_BASE', 'http://localhost:8080/laravel-api/api/?option=');
+define('API_BASE', 'http://localhost:8080/laravel-api/basicAPI/api/?option=');
 
 // echo API_BASE . 'status';
 
